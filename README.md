@@ -1,7 +1,7 @@
 ## About Me 👋
 <ul>
   <li> Hi, I am Paarth, a CSE fresher at IIITK</li>
-  <li> Currently working on a AI/ML Football Analysis system with YOLO, OpenCV, and Python </li> 
+  <li> Currently working on a AI/ML Basketball Analysis system with YOLO, OpenCV, and Python </li> 
   <li> Interested in Machine Learning, Data Science & OS
   
 <!--
