@@ -1,8 +1,8 @@
 ## About Me 👋
 <ul>
-  <li> Hi, I am Paarth, a CSE fresher at IIITK</li>
-  <li> Currently working on a AI/ML Basketball Analysis system with YOLO, OpenCV, and Python </li> 
-  <li> Interested in Machine Learning, Data Science & OS
+  <li> Hi, I am Paarth, a CSE sophomore at IIITK</li>
+  <li> Currently working on a Semantic Segmentation project using the MA-UNet architecture </li> 
+  <li> Interested in Deep Learning, Data Science & OS
   
 <!--
 **hydro-7/hydro-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
