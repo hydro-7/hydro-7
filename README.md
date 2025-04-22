@@ -1,8 +1,8 @@
 ## About Me 👋
 <ul>
-  <li> Hi, I am Paarth, a CSE sophomore at IIITK</li>
-  <li> Currently working on a Semantic Segmentation project using the MA-UNet architecture </li> 
-  <li> Interested in Deep Learning, Data Science & OS
+  <li> Hi, I am Paarth, a CSE junior at IIITK</li>
+  <li> Currently working on an Object Tracking project </li> 
+  <li> Interested in Deep Learning, Data Science & Operating Systems
   
 <!--
 **hydro-7/hydro-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
